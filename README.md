@@ -1,4 +1,4 @@
-This repository contains the code to reproduce the results reported in the paper for Image-to-Text and Text-to-Image retrieval. A web application is available here: http://137.204.107.42:37336/ to test text-to-image retrieval.
+This repository contains the code to reproduce the results reported in the paper for Image-to-Text and Text-to-Image retrieval. A web application is available here: http://137.204.107.42:37336/ to test text-to-image retrieval on the FashionGen dataset.
 
 You can run the code in two ways:
 1. Creating a pip environment and running the python scripts from the shell, as described in the [Python Scripts](#Python-Scripts) section
