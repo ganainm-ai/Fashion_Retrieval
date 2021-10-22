@@ -11,4 +11,5 @@ solution significantly outperforms, both in efficacy and efficiency, existing SO
 the adoption of multi-dimensional indexing, with which cross-modal retrieval scales in logarithmic time up to millions, and potentially billions, of text and images.
 
 ### WebApp
-[Web Application] (http://137.204.107.42:37336/) 
+
+[Web Application](http://137.204.107.42:37336/) 
