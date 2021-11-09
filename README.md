@@ -5,7 +5,7 @@ You can run the code in two ways:
 2. Using the provided notebooks, which are self-contained and can be downloaded and easily executed in Google Colab (or locally with Jupyter)
 
 # Python Scripts
-## Clone the repository and create python environment
+## Clone the repository and create your python environment
 ```bash
 git clone https://github.com/ganainm-ai/Fashion_Retrieval.git
 cd Fashion_Retrieval
